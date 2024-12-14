@@ -1,6 +1,6 @@
 {
-    "name": "aaa",
-    "symbol": "bbb",
-    "desription": "ccc",
+    "name": "TEST-TOKEN",
+    "symbol": "TTKN",
+    "desription": "Hello World !",
     "image": "https://raw.githubusercontent.com/sumanta-mondal/metadata/refs/heads/main/Me.PNG"
 }
